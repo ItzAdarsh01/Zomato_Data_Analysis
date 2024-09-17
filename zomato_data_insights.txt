@@ -1,0 +1,9 @@
+1.Majority of restaurants fall in Dining category
+
+2.Majority of restaurants received ratings from 3.5 - 4.0
+
+3.Couples generally prefer restaurants with approximate cost of 300 rupees
+
+4.Offline orders received lower ratings than online orders
+
+5.Dining restaurants prefer offline orders while cafes prefer online orders.
